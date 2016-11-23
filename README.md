@@ -4,7 +4,7 @@ the web banners with a click!
 
 Generates code for IE section separately!
 
-[![N|Solid](https://lh5.googleusercontent.com/f8NIre6tkUMS9w6icoY8gcNjMgkO3cHX9hefoNc8CxC4Ft6qJLoPRw0ehlnIjmXx7SHcw0K5g04mng=w1600-h1094)](https://nodesource.com/products/nsolid)
+![N|Quick Banner Code - Screenshot](https://lh5.googleusercontent.com/f8NIre6tkUMS9w6icoY8gcNjMgkO3cHX9hefoNc8CxC4Ft6qJLoPRw0ehlnIjmXx7SHcw0K5g04mng=w1600-h1094)
 
 
 ### Instructions 
