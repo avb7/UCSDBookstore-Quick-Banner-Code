@@ -1,4 +1,4 @@
-# UCSD Bookstore - Quick Banner Code Generator
+# UCSD Bookstore - Banner Generator
 A handy tool for the developers of the Official UCSD Bookstore website! Generate the HTML code for
 the web banners with a click!
 
